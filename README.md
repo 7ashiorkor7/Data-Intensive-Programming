@@ -8,14 +8,14 @@ One of the most prominent framework for processing big data is Apache Spark, whi
 Python, Scala and Apache Spark are used.
 
 # Core content
-Understanding the uses of the modern big data platforms
-Understanding the computation paradigm of the introduced platforms
-Understanding the limits of the platforms
+* Understanding the uses of the modern big data platforms
+* Understanding the computation paradigm of the introduced platforms
+* Understanding the limits of the platforms
 
 # Complementary knowledge
-Being able to choose a right platform for a specific problem
-Programming small programs for small amounts of data
+* Being able to choose a right platform for a specific problem
+* Programming small programs for small amounts of data
 
 # Specific knowledge
-Programming real-world programs for large data sets
-Setting up and managing big data platforms
+* Programming real-world programs for large data sets
+* Setting up and managing big data platforms
