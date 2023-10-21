@@ -5,7 +5,7 @@ The amount of data in the world has exploded during the last decade. This has le
 
 One of the most prominent framework for processing big data is Apache Spark, which is developed for distributed processing of large data sets across clusters of computers. The framework is written in Scala, but a language binding exists for several commonly used languages.
 
-Python, Scala and Apache Spark are used.
+Scala and Apache Spark are used.
 
 # Core content
 * Understanding the uses of the modern big data platforms
